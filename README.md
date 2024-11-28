@@ -58,7 +58,7 @@ The dataset includes key columns such as:
 - **Fleeing Incidents**: Study the role of fleeing behavior in fatal encounters.
 
 ## Contributing
-- Contributions are welcome! Please follow these steps to contribute:
+Contributions are welcome! Please follow these steps to contribute:
 1. Fork the repository.
 2. Create a new branch (git checkout -b feature/YourFeatureName).
 3. Commit your changes (git commit -m 'Add some feature').
@@ -66,6 +66,6 @@ The dataset includes key columns such as:
 5. Open a pull request.
    
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
 
 
