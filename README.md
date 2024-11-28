@@ -1,3 +1,30 @@
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Status-Finished%20-green?style=flat-square"
+    alt="Status"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/github/repo-size/brunoribeirol/police_shootings_usa?style=flat"
+    alt="Repository Size"
+  />
+  <img
+    src="https://img.shields.io/github/languages/count/brunoribeirol/police_shootings_usa?style=flat&logo=python"
+    alt="Language Count"
+  />
+  <img
+    src="https://img.shields.io/github/commit-activity/t/brunoribeirol/police_shootings_usa?style=flat&logo=github"
+    alt="Commit Activity"
+  />
+  <a href="LICENSE.md"
+    ><img
+      src="https://img.shields.io/github/license/brunoribeirol/police_shootings_usa"
+      alt="License"
+  /></a>
+</p>
+
 # Police Shootings in the United States: 2015-2024
 
 This project analyzes data on fatal police shootings in the United States, compiled by *The Washington Post*. The dataset spans from 2015 to 2024 and provides detailed information on each incident, including:
