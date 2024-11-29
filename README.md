@@ -75,7 +75,7 @@ The dataset includes key columns such as:
   ```
 - Launch the notebook:
   ```bash
-  jupyter notebook police-shootings-usa.ipynb
+  jupyter notebook police_shootings_usa.ipynb
   ```
     
 ## Analysis Highlights
